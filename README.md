@@ -10,6 +10,8 @@ type the theme code for example `dracula` in the text box then hit [ windows: <k
 
 available themes:
 
+popopopoooooop
+
 - `aurora`
 - `dark`
 - `light`
