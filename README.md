@@ -1,5 +1,7 @@
 # typings
 
+The license requires we keep the code open source. Maybe we start from scratch and just reference the code instead of hijacking it? Not sure what the rules are here.
+
 <a href="https://typings.gg" target="_blank">typings.gg</a> is a sleek and modern typing test website. it supports many custom themes
 
 ![typings.gg](img/typings-screen-shot.png)
